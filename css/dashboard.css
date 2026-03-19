@@ -1,0 +1,9 @@
+body {
+    background-color: #f8f9fa; /* Fundo levemente cinza para destacar o card branco */
+}
+
+.card {
+    background-color: #ffffff;
+    max-width: 80vw; /* Ou a largura que preferir */
+    margin: 40px auto;
+}
