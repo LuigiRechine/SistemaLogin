@@ -3,7 +3,7 @@
 Este é um projeto de sistema de autenticação simplificado desenvolvido para praticar a manipulação de dados no navegador utilizando **JavaScript** e **LocalStorage**. O sistema permite o cadastro de usuários, validação de login e uma área restrita (Dashboard) com dados dinâmicos.
 
 ## 🔗 Demonstração
-Você pode acessar o projeto online aqui: [LINK-DO-SEU-REPOSITORIO.github.io](https://LuigiRechine.github.io/sistemaLogin/)
+Você pode acessar o projeto online aqui: [https://LuigiRechine.github.io/sistemaLogin/](https://luigirechine.github.io/SistemaLogin/)
 
 ---
 
